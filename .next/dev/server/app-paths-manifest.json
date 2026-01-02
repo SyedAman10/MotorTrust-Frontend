@@ -1,0 +1,14 @@
+{
+  "/dashboard/diagnosis/page": "app/dashboard/diagnosis/page.js",
+  "/dashboard/leads/[id]/page": "app/dashboard/leads/[id]/page.js",
+  "/dashboard/leads/page": "app/dashboard/leads/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/proposals/page": "app/dashboard/proposals/page.js",
+  "/dashboard/requests/[id]/page": "app/dashboard/requests/[id]/page.js",
+  "/dashboard/requests/page": "app/dashboard/requests/page.js",
+  "/dashboard/shop/page": "app/dashboard/shop/page.js",
+  "/dashboard/shop/setup/page": "app/dashboard/shop/setup/page.js",
+  "/dashboard/vehicles/page": "app/dashboard/vehicles/page.js",
+  "/page": "app/page.js",
+  "/signup/page": "app/signup/page.js"
+}
